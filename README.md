@@ -2,9 +2,9 @@
 
 ![CI](https://github.com/Elysalundyanti21/tugas-minggu10-ci/actions/workflows/compose-check.yml/badge.svg)
 
-**Nama:** [Elysa Lundyanti]
-**NIM:** [202557201014]
-**Mata kuliah:** Teknologi Open Source
+- **Nama:** Elysa Lundyanti
+- **NIM:** 202557201014
+- **Mata kuliah:** Teknologi Open Source
 
 ## Deskripsi
 Workflow ini memvalidasi file `docker-compose.yml` (stack WordPress + MySQL dari tugas minggu 10) secara otomatis memakai GitHub Actions. Validasi berjalan setiap ada push ke branch `main` dan setiap ada Pull Request, sehingga kesalahan penulisan file Compose ketahuan sebelum digabung.
